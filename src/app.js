@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-//
+//lsof -i tcp:3333 //verifica servico na porta 3333 
 
 // const { uuid } = require("uuidv4");
 
