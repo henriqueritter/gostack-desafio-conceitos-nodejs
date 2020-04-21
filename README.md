@@ -11,4 +11,4 @@ Para esse desafio foi criada uma aplicação para armazenar repositórios em uma
 * Listar os repositórios criados
 * Alterar os campos título, url e as tags de tecnologias de um repositório.
 * Deletar o repositório pela ID.
-* Criar/Acrescentar o contador de likes do repositório ao acessar uma rota.
+* Criar/Acrescentar valor ao contador de likes do repositório ao acessar uma rota.
